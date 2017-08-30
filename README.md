@@ -4,7 +4,7 @@
 
 ### Install package, change `exclude` rule for webpack `babel-loader` & add webpack alias
 ```
-npm install --save uxdream/react-bootstrap
+npm install --save spendworx/react-bootstrap
 ```
 
 ```

@@ -1,6 +1,8 @@
 import './styles.scss';
 
-import React, { Component, PropTypes } from 'react';
+import PropTypes from 'prop-types';
+
+import React, { Component } from 'react';
 
 export default class Page extends Component {
   static propTypes = {

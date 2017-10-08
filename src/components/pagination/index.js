@@ -2,7 +2,8 @@ import './styles.scss';
 
 import classnames from 'classnames';
 import { concat, flatten, remove, uniq } from 'lodash';
-import React, { Component, PropTypes } from 'react';
+import PropTypes from 'prop-types';
+import React, { Component } from 'react';
 
 import { propTypes } from '../../utils';
 

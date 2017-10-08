@@ -1,7 +1,8 @@
 import './styles.scss';
 
 import classnames from 'classnames';
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import RcSlider from 'rc-slider';
 
 import { propTypes } from '../../utils';
